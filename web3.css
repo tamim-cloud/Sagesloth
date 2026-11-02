@@ -1,0 +1,263 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.header {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.home-button {
+    color: white;
+    text-decoration: none;
+}
+
+.pagina-2 {
+    color: white;
+    text-decoration: none;
+}
+
+.pagina-3 {
+    color: #A8D672;
+    text-decoration: none;
+}
+
+.pagina-4 {
+    color: white;
+    text-decoration: none;
+}
+
+.login-button {
+    background-color: #2B4037;
+    padding: 10px;
+    border-radius: 12px;
+    color: white;
+ 
+}
+
+body {
+    background-color: #0B1210;
+    font-family: "Inter", sans-serif;
+    color: white;
+}
+
+.logo {
+    padding: 12px;
+    font-size: 17px;
+}
+
+
+
+.about {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 50px 42px;
+}
+
+.about-text {
+    width: 50%;
+}
+
+.kleine-tekst {
+    color: #70D6B2;
+    font-size: 10px;
+}
+
+.about-text h1 {
+    font-size: 35px;
+    font-weight: normal;
+}
+
+.beschrijving {
+    color: #B0B8B2;
+    font-size: 14px;
+}
+
+.calm {
+    background-color: #A8D672;
+    border: none;
+    border-radius: 20px;
+    padding: 8px;
+}
+
+.sloth-foto {
+    width: 350px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+
+.principes {
+    background-color: #12211B;
+    padding: 42px;
+}
+
+.blokken {
+    display: flex;
+    gap: 15px;
+}
+
+.blok1 {
+    background-color: #12211B;
+    border: 1px solid #2B4037;
+    border-radius: 15px;
+    padding: 15px;
+    width: 33%;
+}
+
+.blok2 {
+    background-color: #12211B;
+    border: 1px solid #2B4037;
+    border-radius: 15px;
+    padding: 15px;
+    width: 33%;
+}
+
+.blok3 {
+    background-color: #12211B;
+    border: 1px solid #2B4037;
+    border-radius: 15px;
+    padding: 15px;
+    width: 33%;
+}
+
+.nummer1 {
+    background-color: #A8D672;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+}
+
+.nummer2 {
+    background-color: #C6B5FF;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+}
+
+.nummer3 {
+    background-color: #FFB893;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+}
+
+.blokken p {
+    color: #B0B8B2;
+    font-size: 12px;
+}
+
+
+.team {
+    padding: 42px;
+}
+
+.team-blokken {
+    display: flex;
+    gap: 15px;
+}
+
+.team1 {
+    background-color: #A8D672;
+    color: black;
+    padding: 12px;
+    border-radius: 15px;
+    width: 33%;
+}
+
+.team2 {
+    background-color: #C6B5FF;
+    color: black;
+    padding: 12px;
+    border-radius: 15px;
+    width: 33%;
+}
+
+.team3 {
+    background-color: #FFB893;
+    color: black;
+    padding: 12px;
+    border-radius: 15px;
+    width: 33%;
+}
+
+.team-blokken img {
+    width: 100%;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.team-blokken h3 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.team-blokken p {
+    font-size: 11px;
+}
+
+
+.notes {
+    background-color: #07100e;
+    color: white;
+    padding: 20px;
+}
+
+.groen,
+.paars,
+.geel {
+    display: inline-block;
+    width: 25%;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    color: black;
+}
+
+.groen {
+    background-color: #70D6B2;
+}
+
+.paars {
+    background-color: #c5b4ff;
+}
+
+.geel {
+    background-color: #E8DD63;
+}
+
+.footer {
+    background-color: #12211b;
+    margin-top: 80px;
+    padding: 30px 42px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-tekst h3 {
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 6px;
+}
+
+.footer-tekst p {
+    color: #9ca79e;
+    font-size: 10px;
+}
+
+.socials a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 8px;
+}
+
+.copyright {
+    color: #586b60;
+    font-size: 8px;
+}

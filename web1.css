@@ -1,0 +1,326 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.header {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    align-items: center;
+}
+
+
+.home-button {
+    color: aquamarine;
+}
+
+.pagina-2 {
+    color: white;
+    text-decoration: none;
+}
+
+.pagina-3 {
+    color: white;
+    text-decoration: none;
+}
+
+.pagina-4 {
+    color: white;
+    text-decoration: none;
+}
+
+.login-button {
+    background-color: #A8D672;
+    border-radius: 12px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    background-color: black;
+    font-family: "Inter", sans-serif;
+    color: white;
+}
+
+.logo {
+    color: white;
+    font-family: "Inter", sans-serif;
+    padding: 12px;
+    margin-bottom: 50px;
+    font-size: bold;
+}
+
+.save-point {
+    background-color: #2B4037;
+    border-radius: 9999px;
+    width: 160px;
+    color: #70D6B2;
+}
+
+.img1 {
+    width: 350px;
+    height: auto;
+    display: flex;
+}
+
+.tekst1 {
+    font-size: 70px;
+    color: white;
+}
+
+.tekstpause {
+    font-size: 18px;
+    color: white;
+}
+
+.hero {
+    display: flex;
+}
+
+.buttonstart {
+    background-color: lightgreen;
+    color: darkgreen;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.buttonbrowse {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.choose-your-rest {
+    color: lightgreen;
+}
+
+.block1 {
+    color: white;
+    border-radius: 20px;
+    white;
+    background-color: #2B4037;
+    padding: 20px;
+    width: 250px;
+}
+
+.heart-time {
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.heart {
+    background-color: #A8D672;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.startquest1 {
+    color: #A8D672;
+}
+
+.block2 {
+    color: white;
+    border-radius: 20px;
+    white;
+    background-color: #2B4037;
+    padding: 20px;
+    width: 250px;
+}
+
+.plus-time {
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.plus {
+    background-color: #FFB893;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.startquest2 {
+    color: #FFB893;
+}
+
+.block3 {
+    color: white;
+    border-radius: 20px;
+    white;
+    background-color: #2B4037;
+    padding: 20px;
+    width: 250px;
+}
+
+.haak-time {
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+
+.haak {
+    background-color: #C6B5FF;
+    border-radius: 15px;
+    padding: 10px 20px;
+}
+
+.startquest3 {
+    color: #C6B5FF;
+}
+
+.blocks {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.form1 {
+    background-color: #2B4037;
+    border-radius: 20px;
+    padding: 20px;
+    width: 600px;
+    text-align: center;
+}
+
+.form-container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.join-button {
+    background-color: #C6B5FF;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: black;
+}
+
+.email-input {
+    background-color: #2B4037;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.container-schip {
+    background-color: #2B4037;
+    margin-top: 50px;
+}
+
+.hole {
+    background-color: #0B1210;
+    border-radius: 20px;
+    padding: 20px;
+    width: 350px;
+}
+
+.quest-respawn {
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.quest-tekst {
+    color: #70D6B2;
+}
+
+.container-schip {
+    color: white;
+    background-color: #13201B;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.quest-respawn-time {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    align-items: baseline;
+}
+
+.quest {
+    color: #70D6B2;
+}
+
+.circle {
+    color: #A8D672;
+}
+
+.hole {
+    color: white;
+    border-radius: 20px;
+    white;
+    padding: 20px;
+    border-width: 9999px;
+    width: 390px;
+    background-color: #2B4037;
+    margin-right: 50px;
+}
+
+.beginner {
+    color: #C6B5FF;
+}
+
+.player-note {
+    color: white;
+}
+
+.note {
+    color: #FFB893;
+    display: flex;
+    justify-content: center;
+}
+
+.used-respawn {
+    display: flex;
+    justify-content: center;
+}
+
+.mina-support {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-text {
+    color: white;
+    margin-top: 50px;
+
+}
+
+.footer {
+    background-color: #12211b;
+    margin-top: 80px;
+    padding: 30px 42px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.socials a {
+    color: white;
+    font-size: 20px;
+    margin: 8px;
+}
+
+.copyright {
+    color: #586b60;
+    font-size: 8px;
+}

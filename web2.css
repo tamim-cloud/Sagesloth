@@ -1,0 +1,408 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+ 
+.header {
+    background-color: #0B1210;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    align-items: center;
+}
+ 
+.home-button {
+    color: white;
+    text-decoration: none;
+}
+ 
+.pagina-2 {
+    color: #A8D672;
+    text-decoration: none;
+}
+ 
+.pagina-3 {
+    color: white;
+    text-decoration: none;
+}
+ 
+.pagina-4 {
+    color: white;
+    text-decoration: none;
+}
+ 
+.login-button {
+    background-color: #2B4037;
+    border-radius: 12px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+ 
+body {
+    background-color: #0B1210;
+    font-family: "Inter", sans-serif;
+    color: white;
+}
+ 
+.logo {
+    color: white;
+    font-family: "Inter", sans-serif;
+    padding: 12px;
+    font-size: 17px;
+}
+ 
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+ 
+.hero-text {
+    width: 50%;
+}
+ 
+.MINDFULNESS-text {
+    color: #70D6B2;
+    font-size: 10px;
+}
+ 
+.small-resets {
+    font-size: 35px;
+    color: white;
+}
+ 
+.kleine-text-small-resets {
+    font-size: 14px;
+    color: #B0B8B2;
+}
+ 
+.img2 {
+    width: 350px;
+    height: 200px;
+    border-radius: 20px;
+}
+ 
+.your-reset-pagina2 {
+    color: white;
+    margin-bottom: 25px;
+}
+ 
+.your-reset-pagina2 h2 {
+    font-size: 25px;
+}
+ 
+.your-reset-pagina2 p {
+    color: #B0B8B2;
+    font-size: 12px;
+}
+ 
+.quests-beschikbaar {
+    color: #70D6B2;
+}
+ 
+.filters {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+ 
+.filter {
+    background-color: #A8D672;
+    color: black;
+    border-radius: 20px;
+    padding: 8px 15px;
+    border: none;
+}
+ 
+.filter1 {
+    background-color: #2B4037;
+    color: white;
+    border-radius: 20px;
+    padding: 8px 15px;
+    border: none;
+}
+ 
+.filter2 {
+    background-color: #2B4037;
+    color: white;
+    border-radius: 20px;
+    padding: 8px 15px;
+    border: none;
+}
+ 
+.filter3 {
+    background-color: #2B4037;
+    color: white;
+    border-radius: 20px;
+    padding: 8px 15px;
+    border: none;
+}
+ 
+.filter4 {
+    background-color: #2B4037;
+    color: white;
+    border-radius: 20px;
+    padding: 8px 15px;
+    border: none;
+}
+ 
+.blocks-pagina2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+}
+ 
+.block-pagina2-1 {
+    color: white;
+    border-radius: 20px;
+    background-color: #2B4037;
+    padding: 20px;
+}
+ 
+.block-pagina2-2 {
+    color: white;
+    border-radius: 20px;
+    background-color: #2B4037;
+    padding: 20px;
+}
+ 
+.block-pagina2-3 {
+    color: white;
+    border-radius: 20px;
+    background-color: #2B4037;
+    padding: 20px;
+}
+ 
+.block-pagina2-4 {
+    color: white;
+    border-radius: 20px;
+    background-color: #2B4037;
+    padding: 20px;
+}
+ 
+.block-pagina2-5 {
+    color: white;
+    border-radius: 20px;
+    background-color: #2B4037;
+    padding: 20px;
+}
+ 
+.block-pagina2-6 {
+    color: white;
+    border-radius: 20px;
+    background-color: #2B4037;
+    padding: 20px;
+}
+ 
+.card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+.quest-icon-paars {
+    background-color: #C6B5FF;
+    border-radius: 15px;
+    padding: 10px;
+}
+ 
+.quest-icon-groen {
+    background-color: #A8D672;
+    border-radius: 15px;
+    padding: 10px;
+}
+ 
+.quest-icon-oranje {
+    background-color: #FFB893;
+    border-radius: 15px;
+    padding: 10px;
+}
+ 
+.quest-icon {
+    background-color: #70D6B2;
+    border-radius: 15px;
+    padding: 10px;
+}
+ 
+.quest-icon-geel {
+    background-color: #E9DD60;
+    border-radius: 15px;
+    padding: 10px;
+}
+ 
+.quest-icon-creme {
+    background-color: #F0EBD8;
+    border-radius: 15px;
+    padding: 10px;
+}
+ 
+.time-pagina2 {
+    color: #B0B8B2;
+}
+ 
+.time-pagina-2 {
+    color: #B0B8B2;
+}
+ 
+.time-pagina-3 {
+    color: #B0B8B2;
+}
+ 
+.time-pagina-4 {
+    color: #B0B8B2;
+}
+ 
+.time-pagina-5 {
+    color: #B0B8B2;
+}
+ 
+.time-pagina-6 {
+    color: #B0B8B2;
+}
+ 
+.blocks-pagina2 h2 {
+    font-size: 16px;
+    font-weight: normal;
+}
+ 
+.blocks-pagina2 p {
+    color: #B0B8B2;
+    font-size: 12px;
+}
+ 
+.level-paars-level {
+    color: #C6B5FF;
+    background-color: #352D46;
+    border-radius: 10px;
+    padding: 5px;
+}
+ 
+.level-groen-level {
+    color: #A8D672;
+    background-color: #263D2A;
+    border-radius: 10px;
+    padding: 5px;
+}
+ 
+.level-oranje-level {
+    color: #FFB893;
+    background-color: #463127;
+    border-radius: 10px;
+    padding: 5px;
+}
+ 
+.level-mint-level {
+    color: #70D6B2;
+    background-color: #203D34;
+    border-radius: 10px;
+    padding: 5px;
+}
+ 
+.level-advanced-level {
+    color: #F0EBD8;
+    background-color: #39392F;
+    border-radius: 10px;
+    padding: 5px;
+}
+ 
+.startquest-pagina2-1 {
+    color: #C6B5FF;
+}
+ 
+.startquest-pagina2-3 {
+    color: #A8D672;
+}
+ 
+.startquest-pagina2-4 {
+    color: #70D6B2;
+}
+ 
+.startquest-pagina2-5 {
+    color: #E9DD60;
+}
+ 
+.startquest-pagina2-7 {
+    color: #F0EBD8;
+}
+ 
+ 
+.form-your-place {
+    background-color: #192c25;
+    margin: 4px 42px;
+    padding: 50px 28px;
+    border-radius: 24px;
+    display: flex;
+    align-items: center;
+    gap: 28px;
+}
+ 
+.procent {
+    background-color: #c5adff;
+    color: #17231e;
+    width: 89px;
+    height: 89px;
+    border-radius: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+ 
+.tekst-your-place h2 {
+    font-size: 25px;
+    font-weight: normal;
+    margin-bottom: 12px;
+}
+ 
+.tekst-your-place p {
+    color: #a3ada5;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+ 
+.knop-start-spawn {
+    background-color: #a8d96e;
+    color: #172319;
+    padding: 9px 15px;
+    border-radius: 10px;
+    font-size: 11px;
+    display: inline-block;
+    cursor: pointer;
+}
+ 
+.footer {
+    background-color: #12211b;
+    margin-top: 80px;
+    padding: 30px 42px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+.footer-tekst h3 {
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 6px;
+}
+ 
+.footer-tekst p {
+    color: #9ca79e;
+    font-size: 10px;
+}
+ 
+.socials a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 8px;
+}
+ 
+.copyright {
+    color: #586b60;
+    font-size: 8px;
+}
+ 
